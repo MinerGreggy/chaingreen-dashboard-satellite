@@ -35,7 +35,7 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "description": "(modified version of Chia-Dashboard-Satellite to Support the Chaingreen Fork.)",
+  "description": "Chaingreen-Dashboard-Satellite",
   "homepage": "https://github.com/thauch/chaingreen-dashboard-satellite#readme",
   "directories": {
     "lib": "lib"
@@ -45,8 +45,7 @@
     "blockchain",
     "satellite",
     "api",
-    "chiadashboard.com",
-    "chaingreendashboard.com"
+    "chiadashboard.com"
   ],
   "author": "thauch"
 }
