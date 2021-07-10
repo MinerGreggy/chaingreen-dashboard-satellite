@@ -1,6 +1,6 @@
 {
   "name": "chaingreen-dashboard-satellite",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thauch/chaingreen-dashboard-satellite.git"
