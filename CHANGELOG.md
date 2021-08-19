@@ -1,7 +1,7 @@
 1.11.0 / 2021-08-08
 ===================
 
-* updated for nft support and other updates to rebase
+* updated for nft support and other updates to rebase and removed the need for seperate api's
 
 1.10.0 / 2021-06-03
 ==================
