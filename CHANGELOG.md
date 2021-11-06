@@ -1,7 +1,23 @@
-1.11.0 / 2021-08-08
+
+1.12.7 / 2021-11-06
+==================
+
+* Fix plotting stats on chia >= 1.2.11.
+
+1.12.5 / 2021-08-18
 ===================
 
-* updated for nft support and other updates to rebase and removed the need for seperate api's
+* Removed the need for seperate api's and just use chia-api as its now overridable on Connection constructor and SERVICE() method
+
+1.11.2 / 2021-07-28
+===================
+
+* Changed Over The Names To The New Forks And Updated Yarn And Versions
+
+1.11.0 / 2021-07-28
+===================
+
+* Forked From Felix And Changed Names For Forks
 
 1.10.0 / 2021-06-03
 ==================
@@ -22,13 +38,13 @@
 1.9.0 / 2021-05-19
 ==================
 
-* Add support for selecting the `chaingreenDashboardCoreUrl` config option in the first run wizard.
-* Show the used `chaingreenDashboardCoreUrl` on startup.
+* Add support for selecting the `chiaDashboardCoreUrl` config option in the first run wizard.
+* Show the used `chiaDashboardCoreUrl` on startup.
 
 1.8.0 / 2021-05-19
 ==================
 
-* Add support for using any chia-dashboard-core via `chaingreenDashboardCoreUrl` config option.
+* Add support for using any chia-dashboard-core via `chiaDashboardCoreUrl` config option.
 
 1.7.0 / 2021-05-15
 ==================
