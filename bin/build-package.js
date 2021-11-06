@@ -6,7 +6,7 @@ const archiver = require('archiver');
 
 const version = require('../lib/version');
 
-const name = 'chaingreen-dashboard-satellite';
+const name = 'hddcoin-dashboard-satellite';
 
 (async () => {
   const buildPath = join(__dirname, '..', 'build');
