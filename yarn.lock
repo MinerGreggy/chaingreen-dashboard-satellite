@@ -200,13 +200,13 @@ chalk@^4.1.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chia-api@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/chia-api/-/chia-api-3.0.0.tgz#23b93fa9cec9bd58bbce611a28c6fc69d842e986"
-  integrity sha512-raky02Wsl3wZadrG/i3ZGVRo+xEUlpGDs+dNNlydu04ydKK3z8zXjvPWOn6NpVmpTC/fuXc6p0h4Qerhqqxp7g==
+chia-api@^3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/chia-api/-/chia-api-3.5.0.tgz#289dedebd33555aefbc05e5a2a3fd9b17674a16d"
+  integrity sha512-gnAW6TFf2lDeM6pVSG3A/2YFae69iEeFwMsil1QVTJ5YnhJK1aLDQEuwL1+pM+YFPDCE0DJCGORRpjy6kxC+2w==
   dependencies:
     json-bigint "^1.0.0"
-    ws "^7.5.0"
+    ws "^8.11.0"
 
 chownr@^1.1.1:
   version "1.1.4"
@@ -1239,10 +1239,10 @@ wrappy@1:
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
-ws@^7.5.0:
-  version "7.5.3"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.5.3.tgz#160835b63c7d97bfab418fc1b8a9fced2ac01a74"
-  integrity sha512-kQ/dHIzuLrS6Je9+uv81ueZomEwH0qVYstcAQ4/Z93K8zeko9gtAbttJWzoC5ukqXY1PpoouV3+VSOqEAFt5wg==
+ws@^8.11.0:
+  version "8.11.0"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.11.0.tgz#6a0d36b8edfd9f96d8b25683db2f8d7de6e8e143"
+  integrity sha512-HPG3wQd9sNQoT9xHyNCXoDUa+Xw/VevmY9FoHyQ+g+rrMn4j6FB4np7Z0OhdTgjx6MgQLK7jwSy1YecU1+4Asg==
 
 y18n@^5.0.5:
   version "5.0.8"
